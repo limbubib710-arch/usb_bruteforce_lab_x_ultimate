@@ -1,0 +1,8 @@
+# USB BRUTEFORCE LAB X ULTIMATE
+# Runtime: Python 3.8+ standard library only. Nothing is mandatory.
+# pip install -r requirements.txt works fine (installs nothing).
+#
+# Optional extras (uncomment only if you want them; the tool never imports them):
+# rich>=13.0.0
+#
+# Termux system packages (not pip):  pkg install python termux-api
